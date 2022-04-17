@@ -1,0 +1,2 @@
+# artificial_intelligence_4_earth_observation_machine_learning
+General guidance for AI applications with machine learning
